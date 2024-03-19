@@ -33,7 +33,6 @@ Before installing the MedicalFlow System, ensure you have the following componen
 3. Install the following libraries through the Arduino Library Manager:
    - `Blynk`
    - `Adafruit_NeoPixel`
-   - `ESP32Servo`
    - `DHT sensor library`
 4. Configure your Wi-Fi credentials and Blynk token in the provided code.
 5. Upload the code to your ESP32 device.
