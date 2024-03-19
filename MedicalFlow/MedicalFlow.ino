@@ -6,7 +6,6 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 #include <Adafruit_NeoPixel.h>
-#include <ESP32Servo.h>
 #include "pitches.h"
 
 
